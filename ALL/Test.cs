@@ -1,7 +1,14 @@
-namespace Gritv3.GritTest
+// Solution: GritTest
+// Project: Main
+// File: Test.cs
+// Last User: Chris Hildebran
+// Last Edit: 20181216-6:58 PM
+namespace Main
 {
     using System;
 
+    /// <summary>
+    /// </summary>
     public static class Test
     {
         #region Constants
@@ -61,12 +68,12 @@ namespace Gritv3.GritTest
             questions[8] = "I have been obsessed with a certain idea or project for a  short time but later lost interest.";
             questions[9] = "I have overcome setbacks to conquer an important challenge.";
 
-            foreach (var s in questions)
+            foreach(var s in questions)
             {
                 Console.WriteLine("Question #" + (_questionsAnswered + 1) + ": " + s);
                 Console.WriteLine();
 
-                if (_questionHeader % 2 == 0)
+                if(_questionHeader % 2 == 0)
                 {
                     Console.WriteLine("-" + _questionHeader15);
                 }
