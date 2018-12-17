@@ -2,7 +2,7 @@
 // Project: Main
 // File: Test.cs
 // Last User: Chris Hildebran
-// Last Edit: 20181216-6:58 PM
+// Last Edit: 20181216-7:03 PM
 namespace Main
 {
     using System;
@@ -46,7 +46,7 @@ namespace Main
 
             Console.Write("Enter your last name: ");
             _nameLast = Console.ReadLine();
-            Console.WriteLine("Hello " + _nameFirst + "!");
+            Console.WriteLine("Hello " + _nameFirst + " " + _nameLast + "!");
             Console.WriteLine(_questionBreak);
 
             Console.WriteLine("Initial Values");
