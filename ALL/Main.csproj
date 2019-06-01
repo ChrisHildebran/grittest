@@ -7,7 +7,7 @@
     <AssemblyName>GritTest</AssemblyName>
     <ProjectGuid>{E57CB92F-3175-494E-A41B-58AB72DB29AA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <UpgradeBackupLocation>
