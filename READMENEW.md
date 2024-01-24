@@ -4,10 +4,9 @@
 
 
 
-
-
-## [﻿Figure 1](https://app.eraser.io/workspace/YG8CVgrH0Ye0HZUI2WST?elements=k4W3esIS2-p1Z8cNxtzB2w) 
  
+
+![Figure 1](/.eraser/YG8CVgrH0Ye0HZUI2WST___z0Myc8dwfBVhl3GKVktvOiZwUwE2___---figure---ZQFhSL5x8eRazUriA0zxt---figure---k4W3esIS2-p1Z8cNxtzB2w.png "Figure 1")
 
 
 
