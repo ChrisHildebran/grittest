@@ -6,7 +6,7 @@
 3. Go!
 
 
-![Figure 1](/.eraser/Tc3qtjFgGKfTFZxjTPOS___z0Myc8dwfBVhl3GKVktvOiZwUwE2___---figure---ruGdohp6JfRnzNwD0k1NV---figure---0dZ50WtcvybRFN4zESdVQA.png "Figure 1")
+![Figure 1](/.eraser/Tc3qtjFgGKfTFZxjTPOS___z0Myc8dwfBVhl3GKVktvOiZwUwE2___---figure---lu387ZgVNCMnHoRfT4YTA---figure---0dZ50WtcvybRFN4zESdVQA.png "Figure 1")
 
 
 
