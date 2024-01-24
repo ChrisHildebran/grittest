@@ -8,7 +8,7 @@ Grit Test - How much grit do you have?
 
  ====================================== 
 
-![Figure 1](/.eraser/YG8CVgrH0Ye0HZUI2WST___z0Myc8dwfBVhl3GKVktvOiZwUwE2___---figure---mElwtAjjMz8-jiI3usDAL---figure---k4W3esIS2-p1Z8cNxtzB2w.png "Figure 1")
+![Figure 1](/.eraser/YG8CVgrH0Ye0HZUI2WST___z0Myc8dwfBVhl3GKVktvOiZwUwE2___---figure---SpK24SXcXNnUuvv-JDYay---figure---k4W3esIS2-p1Z8cNxtzB2w.png "Figure 1")
 
 
 
